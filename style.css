@@ -1,0 +1,39 @@
+
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img-1{
+    width: 800px;
+}
+
+.text-1{
+    position: absolute;
+    font-size: 25px;
+    width: 40%;
+    top: 265px;
+    background-color: rgba(231, 231, 66, 0.63);
+}
+.img-box{
+    width: 710px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 40px;
+   
+}
+
+.img{
+    width: 320px;
+    border-top: 6px solid rgb(220, 220, 29);
+}
+
+.box-img{
+    width: 100%;
+    background-size: cover;
+}
+
+.box-img img{
+    width: 100%;
+}
+
