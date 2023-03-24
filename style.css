@@ -1,7 +1,12 @@
+ body{
+    background-color: #000;
+ }
 
 .container{
-    width: 50%;
+    border: 5px solid #fff;
+    width: 710px;
     margin: auto;
+    background-color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .img-1{
